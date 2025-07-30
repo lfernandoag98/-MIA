@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "mia_user",
+    "password": "qwerty2025",
+    "database": "mia_enfermeria",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
